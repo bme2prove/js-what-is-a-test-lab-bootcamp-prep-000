@@ -28,7 +28,7 @@ If we run `learn` in our terminal right now, you'll get a bunch of failed tests.
       + expected - actual
 
       -Joe
-      +Susan
+      =Susan
 
       at assert (node_modules/expect/lib/assert.js:29:9)
       at Expectation.toEqual (node_modules/expect/lib/Expectation.js:81:30)
