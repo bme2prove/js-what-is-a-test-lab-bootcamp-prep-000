@@ -95,7 +95,7 @@ Error: Expected 'Joe' to equal 'Susan'
 + expected - actual
 
 -Joe
-+Susan
+=Susan
 
 at assert (node_modules/expect/lib/assert.js:29:9)
 at Expectation.toEqual (node_modules/expect/lib/Expectation.js:81:30)
